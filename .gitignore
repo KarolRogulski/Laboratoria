@@ -1,0 +1,5 @@
+**[Dd]ebug
+/.git
+*.vcxproj*
+### VS Code ###
+.vs
